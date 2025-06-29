@@ -39,7 +39,7 @@ The dashboard utilizes data from internal insurance sales and policy management 
 - opportunity
 
 # 📂 Download
-(Not applicable as this is an image, not a live dashboard with a download link.)
+
 
 # 💠 Data Preparation
 
@@ -56,7 +56,19 @@ The data preparation phase for this dashboard likely involved:
 - Establishing relationships between different tables (brokerage, fees, budget, invoice, meeting, opportunity) for data modeling and analysis.
 
 # 💠 Project Dashboard:
-
+<br><br>
+# Excel Dashboard 
+<br><br>
+![Excel Dashboard snap](https://github.com/user-attachments/assets/44d328ad-380a-463d-9a29-a50d8793aabf)
+<br><br>
+# Power BI dashboard
+<br><br>
+![Power Bi Dashboard snap](https://github.com/user-attachments/assets/8a56d985-2987-4c8a-bc1c-0a02815012cd)
+<br><br>
+# TAbleau Dashboard
+<br><br>
+![Tableau Dashboard snap](https://github.com/user-attachments/assets/eb74d14c-cb2a-42cb-a8d4-1d474bb84c43)
+<br><br>
 ## 🎯 KPIs
 
 ### New Business:
@@ -155,51 +167,47 @@ The data preparation phase for this dashboard likely involved:
 
 # ✅ Findings and Recommendations:
 
-Renewal Success:
+## Renewal Success:
 
-Finding: The exceptional performance in renewals (150.23% policy achievement) is a significant strength.
+* Finding: The exceptional performance in renewals (150.23% policy achievement) is a significant strength.
 
-Recommendation: Continue to nurture existing client relationships and understand the factors contributing to this success to replicate best practices.
+* Recommendation: Continue to nurture existing client relationships and understand the factors contributing to this success to replicate best practices.
 
-New Business and Cross-sell Challenges:
+# New Business and Cross-sell Challenges:
 
-Finding: The low achievement rates for new policies and, more critically, for new and cross-sell invoices (4.21% and 15.14% respectively) highlight a major area for improvement.
+* Finding: The low achievement rates for new policies and, more critically, for new and cross-sell invoices (4.21% and 15.14% respectively) highlight a major area for improvement.
 
-Recommendation: Investigate bottlenecks in the sales-to-invoicing process for new and cross-sell business. This could involve process review, sales training on closing and paperwork, or improved coordination between sales and billing teams.
+* Recommendation: Investigate bottlenecks in the sales-to-invoicing process for new and cross-sell business. This could involve process review, sales training on closing and paperwork, or improved coordination between sales and billing teams.
 
-Executive Performance Discrepancies:
+# Executive Performance Discrepancies:
 
-Finding: While Gilbert leads in meetings, his invoice contribution isn't explicitly highlighted as top. Conversely, Abhinav Shivam and Abhirav Vinay are strong in invoice generation.
+* Finding: While Gilbert leads in meetings, his invoice contribution isn't explicitly highlighted as top. Conversely, Abhinav Shivam and Abhirav Vinay are strong in invoice generation.
 
-Recommendation: Analyze the conversion rates from meetings to invoices for each executive. Provide targeted coaching or reallocate leads based on strengths in different stages of the sales cycle.
+* Recommendation: Analyze the conversion rates from meetings to invoices for each executive. Provide targeted coaching or reallocate leads based on strengths in different stages of the sales cycle.
 
-Opportunity Management:
+# Opportunity Management:
 
-Finding: With 44 out of 49 opportunities still open, there's a strong pipeline.
+* Finding: With 44 out of 49 opportunities still open, there's a strong pipeline.
 
-Recommendation: Focus on accelerating the progression of these open opportunities through the sales stages, particularly those with higher revenue potential identified in "Top 4 Open Oppty By Revenue."
+* Recommendation: Focus on accelerating the progression of these open opportunities through the sales stages, particularly those with higher revenue potential identified in "Top 4 Open Oppty By Revenue."
 
-Product Focus:
+# Product Focus:
 
-Finding: "Marine" and "Employee..." products are generating the most opportunities.
+* Finding: "Marine" and "Employee..." products are generating the most opportunities.
 
-Recommendation: Explore if sales efforts are adequately aligned with these high-opportunity products and if there are opportunities to cross-sell or up-sell within these segments.
+* Recommendation: Explore if sales efforts are adequately aligned with these high-opportunity products and if there are opportunities to cross-sell or up-sell within these segments.
 
-🧭 Interactivity
+# 🧭 Interactivity
 
-The dashboard includes several interactive elements:
+ Slicer : "Year," "Stage," and "Employee Name" allow users to drill down and analyze data based on specific criteria.
 
-Filters (Left Panel): "Year," "Stage," and "Employee Name" allow users to drill down and analyze data based on specific criteria.
 
-Target/Achieve/Invoice Toggle (Below Cross-sell section): This likely allows users to switch the displayed values between target, achieved, and invoiced amounts for a more focused view.
+# 🛠 Tools & Technologies Used
+* Advance Excel
+* Power BI
+* MySQL 
+* Tableau
 
-🛠 Tools & Technologies Used
-
-Power BI – for dashboard design, visualization, and interactivity.
-
-Underlying Data Sources (specifically brokerage, fees, budget, invoice, meeting, opportunity tables) – for raw data storage.
-
-DAX (Data Analysis Expressions) – likely used for creating calculated measures like achievement percentages and total opportunity counts.
 
 # 📈 Skills Demonstrated
 
@@ -208,8 +216,6 @@ DAX (Data Analysis Expressions) – likely used for creating calculated measures
 * KPI Development & Tracking
 
 * Dashboard Design & Layout
-
-* Sales Performance Analysis
 
 * Opportunity Management Insights
 
