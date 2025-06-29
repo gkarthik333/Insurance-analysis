@@ -1,4 +1,4 @@
-# Insurance Analysis Report
+# <h1 align="center">Insurance Analysis Report</h1>
 
 # 💠 Project Overview
 
@@ -57,15 +57,15 @@ The data preparation phase for this dashboard likely involved:
 
 # 💠 Project Dashboard:
 <br><br>
-# Excel Dashboard 
+# <h1 align="center">Excel Dashboard </h1>
 <br><br>
 ![Excel Dashboard snap](https://github.com/user-attachments/assets/44d328ad-380a-463d-9a29-a50d8793aabf)
 <br><br>
-# Power BI dashboard
+# <h1 align="center">Power BI Dashboard </h1>
 <br><br>
 ![Power Bi Dashboard snap](https://github.com/user-attachments/assets/8a56d985-2987-4c8a-bc1c-0a02815012cd)
 <br><br>
-# TAbleau Dashboard
+# <h1 align="center">Tableau Dashboard </h1>
 <br><br>
 ![Tableau Dashboard snap](https://github.com/user-attachments/assets/eb74d14c-cb2a-42cb-a8d4-1d474bb84c43)
 <br><br>
