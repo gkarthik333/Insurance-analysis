@@ -56,7 +56,7 @@ The data preparation phase for this dashboard likely involved:
 - Establishing relationships between different tables (brokerage, fees, budget, invoice, meeting, opportunity) for data modeling and analysis.
 
 # 💠 Project Dashboard:
-<br><br>
+
 # <h1 align="center">Excel Dashboard </h1>
 <br><br>
 ![Excel Dashboard snap](https://github.com/user-attachments/assets/44d328ad-380a-463d-9a29-a50d8793aabf)
